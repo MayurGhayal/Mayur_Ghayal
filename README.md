@@ -16,7 +16,7 @@ Hi 👋, I'm Mayur Ghayal
 🧠 AI-based student skill matching system
 💬 Real-time collaboration & networking
 ⚡ Built with React + Flask + Supabase
-👉 https://github.com/yourusername/Acadlinker
+👉 [https://github.com/yourusername/Acadlinker](https://acadlinker-student-networking.vercel.app/]
 
 🏆 Achievements & Experience
 
